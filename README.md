@@ -1,18 +1,18 @@
 # PowerBI-Projects
-<h2><li>Online Retail Store Analysis</li></h2>
+<h2><li>Products Performance Analysis</li></h2>
 
-<b>Provided insights which they can use to create the expansion strategy. Analyzed the trends and the breakdown by different categories so that have clarity on how the revenue is being generated and what are the main factors affecting the online store</b>
-<h3>Data: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data](https://prod-apnortheast-a.online.tableau.com/#/site/aiswaryackkrishnana734daa73f/workbooks/1756126?:origin=card_share_link)</h3>
+<b>Provided insights about products produced by a company. Analyzed and visualized products, their cutomer range and the revenue produces from them categorized by regions and cutomer index with stores respective to its city</b>
 
- <h3><b>Charts and analysis</b></h3>
+ <h3><b>Features and analysis</b></h3>
     <ul>
-      <li><b>Line Chart:</b>Time series of the revenue data for the year 2011 only. This chart allows to view granular data by looking into revenue for each month.</li>
-      <li><b>Stacked Bar Chart:</b> Top 10 countries which are generating the highest revenue excluding UK. Additionally, the quantity sold along with the revenue generated.</li>
-      <li><b>Map</b> Regions have the greatest demand for their products. Once gets an idea of the regions that have high demand, It gives easyness to initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. </li>
-      <li><b>Column Chart:</b> Top 10 customers by revenue. The visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. Through this visual it is helpful  to target the higher revenue generating customers and ensure that they remain satisfied with their products.</li>
+      <li><b>Sum of Revenue:</b>Sum of total revenue from all products of the company</li>
+      <li><b>Sum of Total Unit Cost:</b>Cost per unit of all products purchased by each customer is given in data set. According to their quantity is purchased, the total cost of total units is given also in data set.</li>
+      <li><b>Sum of Profit</b> Total profit this particular company gained through these products which is through all the suburbs of cities.</li>
+      <li><b>Total cost:</b> Total cost in this data set includes the complete cost that a customer spend to purchase this company's product.</li>
     </ul>
     </li>
-    <li><b>Technology used</b>: <code>Tableau</code></li>
-    <li><b>Repository Link</b>: <a href="#"><h6>Dashboard 2.png</h6></a></li>
+    <li><b>Technology used</b>: <code>Power BI</code>, <code>Excel</code></li>
+    <li><b>Repository Link</b>: <a href="#"><h6>4 table.png</h6><h6>4table.pbix</h6></a></li>
+    <li><b>Dashboard Link</b>: <a href="#"><h6>[4 table.png](https://app.powerbi.com/links/VSi8DFZDnd?ctid=b489ce7e-1e62-481f-b46b-ee4a7a506c06&pbi_source=linkShare)</h6></a></li>
   </ul>
 </div>
