@@ -13,6 +13,6 @@
     </li>
     <li><b>Technology used</b>: <code>Power BI</code>, <code>Excel</code></li>
    
-<li><b>Data & Analysis</b>: <a href="#"><h6>(https://app.powerbi.com/links/VSi8DFZDnd?ctid=b489ce7e-1e62-481f-b46b-ee4a7a506c06&pbi_source=linkShare)</h6></a></li>
+<li><b>Data & Analysis</b>: <a href="#"><h6>product_performance_Analysis</h6></a></li>
   </ul>
 </div>
