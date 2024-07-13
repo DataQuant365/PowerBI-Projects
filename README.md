@@ -12,9 +12,7 @@
     </ul>
     </li>
     <li><b>Technology used</b>: <code>Power BI</code>, <code>Excel</code></li>
-    <li><b>Repository Link</b>: <a href="#"><h6>4 table.png</h6><h6>4table.pbix</h6></a></li>
-    
-<h3><b>Report:</b><a href="#"><h6>Performace of products Report.pdf</h6></a></h3> 
-<li><b>Dashboard Link</b>: <a href="#"><h6>[4 table.png](https://app.powerbi.com/links/VSi8DFZDnd?ctid=b489ce7e-1e62-481f-b46b-ee4a7a506c06&pbi_source=linkShare)</h6></a></li>
+   
+<li><b>Data & Analysis</b>: <a href="#"><h6>(https://app.powerbi.com/links/VSi8DFZDnd?ctid=b489ce7e-1e62-481f-b46b-ee4a7a506c06&pbi_source=linkShare)</h6></a></li>
   </ul>
 </div>
